@@ -1,0 +1,10 @@
+factory_data
+Unique ID: the unique identifier
+Product ID: the product ID
+Quality: the machine quality, L=Low, M=Medium, H=High
+Ambient T: the ambient temperature
+Process T: the process temperature
+Rotation Speed: the machine rotation speed measured in rpm (rounds per minute)
+Torque: the torque of the machine
+Tool Wear: the time of tool wear
+Machine Status: 0 means normal, 1 means abnormal
